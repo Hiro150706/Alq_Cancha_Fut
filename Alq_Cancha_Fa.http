@@ -1,0 +1,6 @@
+@Alq_Cancha_Fa_HostAddress = http://localhost:5237
+
+GET {{Alq_Cancha_Fa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
